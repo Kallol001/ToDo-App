@@ -1,33 +1,41 @@
 
-# Alex - Smart Voice Assistant
+# ToDo Task Management App
 
-Welcome to the Alex project repository! 🚀
+Welcome to the ToDo App project repository! 🚀
 
 ## Author - [@Kallol Dutta](https://www.github.com/kallol001)
 
 
 ## Overview
-Alex is not just your ordinary voice assistant – it's your intelligent companion equipped with the power of ChatGPT and DALL-E! With the ability to answer any question like ChatGPT and generate AI images akin to DALL-E, Alex brings a whole new level of sophistication to the world of voice assistants.
+Welcome to ToDO, your go-to Task Management App built with Flutter! ToDo is designed to streamline your daily activities by providing a user-friendly interface for adding, organizing, and tracking your tasks. With colorful task cards categorized by type, you can manage your tasks efficiently. 
 
-Alex is not just a silent genius; it's your chatty, creative sidekick! It can not only answer your queries but also read them out loud with its enchanting voice. Yes, you heard it right—Alex is voice-enabled! 🎙️
+This app utilizes Firebase for seamless data storage and retrieval, and it leverages Riverpod for state management.
 
 
 ## Features
 
-- 𝗩𝗼𝗶𝗰𝗲 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗖𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀: Ask Alex anything, and it will strive to provide informative and relevant responses. Whether you prefer reading or listening, Alex has got you covered.
-- 𝗔𝗜 𝗜𝗺𝗮𝗴𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻: Harnessing the DALL·E API, Alex can create imaginative and unique images based on textual descriptions. Witness your words come to life in vibrant visuals.
-- 𝗩𝗼𝗶𝗰𝗲 𝗘𝗻𝗮𝗯𝗹𝗲𝗱 : Alex, equipped with voice, can recite the solutions to all your queries.
+- 𝗧𝗮𝘀𝗸 𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Add tasks with titles, descriptions, categories, dates, and times. Tasks are visually represented with colored cards based on their category
+- 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 𝗦𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻: Choose from a variety of categories using radio buttons to easily categorize and distinguish your tasks.
+- 𝗗𝗮𝘁𝗲 𝗮𝗻𝗱 𝗧𝗶𝗺𝗲 𝗦𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻: Specify due dates and times for your tasks, ensuring you stay on top of your schedule
+- 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: All your tasks are securely stored and retrieved using Firebase, ensuring your data is always accessible.
+- 𝗥𝗶𝘃𝗲𝗿𝗽𝗼𝗱 𝗦𝘁𝗮𝘁𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: ToDo utilizes Riverpod for efficient state management, providing a smooth and responsive user experience.
 
 
 ## Dependencies
-- OpenAI GPT-3.5 API
-- DALL-E API
-- speech to text - 6.5.0
-- animate do - 3.1.2
+- Flutter
+- Firebase (Firestore)
+- Riverpod
+- gap
+  
 ## Screenshots
 
 <p>
   <img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/14c7f06d-98af-476c-aef4-8d3bf375faec" width="231" height="500">
+  <img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/47c35e0a-0e54-4a39-8543-0070e2a700cc" width="281" height="500">
+  <img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/14c7f06d-98af-476c-aef4-8d3bf375faec" width="231" height="500">
+  <img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/47c35e0a-0e54-4a39-8543-0070e2a700cc" width="281" height="500">
+  <img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/14c7f06d-98af-476c-aef4-8d3bf375faec" width="231" height="500">
+  <img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/47c35e0a-0e54-4a39-8543-0070e2a700cc" width="281" height="500">
   <img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/47c35e0a-0e54-4a39-8543-0070e2a700cc" width="281" height="500">
 </p>
 
