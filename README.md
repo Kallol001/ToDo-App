@@ -23,9 +23,10 @@ This app utilizes Firebase for seamless data storage and retrieval, and it lever
 - Riverpod
 - gap
 
-## Screenshots
+## Demo
 
-<img src="https://github.com/Kallol001/ToDo-App/assets/121399773/e76e069e-c8d5-42e5-ac3a-b757f83488d2" width="231" height="500">
+<img src="https://github.com/Kallol001/ToDo-App/assets/121399773/e76e069e-c8d5-42e5-ac3a-b757f83488d2" width="281" height="500">
+
 ## Screenshots
 
 <p>
