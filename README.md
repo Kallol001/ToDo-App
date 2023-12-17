@@ -7,7 +7,7 @@ Welcome to the ToDo App project repository! 🚀
 
 
 ## Overview
-Welcome to ToDO, your go-to Task Management App built with Flutter! ToDo is designed to streamline your daily activities by providing a user-friendly interface for adding, organizing, and tracking your tasks. With colorful task cards categorized by type, you can manage your tasks efficiently. 
+Welcome to ToDo, your go-to Task Management App built with Flutter! ToDo is designed to streamline your daily activities by providing a user-friendly interface for adding, organizing, and tracking your tasks. With colorful task cards categorized by type, you can manage your tasks efficiently. 
 
 This app utilizes Firebase for seamless data storage and retrieval, and it leverages Riverpod for state management.
 
