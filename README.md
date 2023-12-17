@@ -16,6 +16,7 @@ This app utilizes Firebase for seamless data storage and retrieval, and it lever
 - 𝗗𝗮𝘁𝗲 𝗮𝗻𝗱 𝗧𝗶𝗺𝗲 𝗦𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻: Specify due dates and times for your tasks, ensuring you stay on top of your schedule.
 - 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: All your tasks are securely stored and retrieved using Firebase, ensuring your data is always accessible.
 - 𝗥𝗶𝘃𝗲𝗿𝗽𝗼𝗱 𝗦𝘁𝗮𝘁𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: ToDo utilizes Riverpod for efficient state management, providing a smooth and responsive user experience.
+- 𝗥𝘂𝗻𝘀 𝗶𝗻 𝗕𝗼𝘁𝗵 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 & 𝗶𝗢𝗦
 
 ## Dependencies
 - Flutter
