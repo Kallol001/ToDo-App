@@ -31,11 +31,11 @@ This app utilizes Firebase for seamless data storage and retrieval, and it lever
 
 <p>
   <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/642542c7-bcf6-4ca2-970c-e2ec93e565f0" width="231" height="500">
-  <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/7eae64ac-19c8-4ec5-84cd-663f41f8d789" width="236" height="500"><br>
+  <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/7eae64ac-19c8-4ec5-84cd-663f41f8d789" width="236" height="500">
   <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/fffba7d1-0e95-4e38-a28e-8a95bbabaded" width="231" height="500">
-  <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/10f99e05-24b8-4924-9979-dba730a63437" width="236" height="500"><br>
+  <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/10f99e05-24b8-4924-9979-dba730a63437" width="236" height="500">
   <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/3a1d45ef-5618-4223-a160-5c4428289143" width="231" height="500">
-  <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/c8a044c3-085f-4a02-b805-39c90c4bce57" width="236" height="500"><br>
+  <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/c8a044c3-085f-4a02-b805-39c90c4bce57" width="236" height="500">
   <img src="https://github.com/Kallol001/ToDo-App/assets/121399773/e76e069e-c8d5-42e5-ac3a-b757f83488d2" width="281" height="500">
 </p>
 
